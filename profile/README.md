@@ -37,3 +37,11 @@ This organization exists **solely for academic purposes**.
 We do not represent a company, product, or commercial entity.  
 
 ---
+
+
+## Members
+- 22i-0781 : Siddique Ahmad Ryan
+- 22i-0789 : M. Zubair Adnan
+- 22i-0882 : Abdullah Saleem
+
+---
